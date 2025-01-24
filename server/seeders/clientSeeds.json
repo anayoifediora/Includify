@@ -1,0 +1,26 @@
+[
+    {
+        "firstName": "Suzy",
+        "lastName": "Williams",
+        "email": "swilliams@mail.com",
+        "phone": "045988654",
+        "gender": "Female",
+        "birthDate": "11-21-1990",
+        "diagnosis": "Cerebral Palsy, Epilepsy, Intellectual Disability",
+        "image": "",
+        "nextOfKin": "Mama Lee"
+
+    },
+    {
+        "firstName": "Horey",
+        "lastName": "Cooper",
+        "email": "hcooper@mail.com",
+        "phone": "045977654",
+        "gender": "Male",
+        "birthDate": "11-21-1990",
+        "diagnosis": "Cerebral Palsy, Epilepsy, Intellectual Disability",
+        "image": "",
+        "nextOfKin": "Hade Jooper"
+
+    }
+]

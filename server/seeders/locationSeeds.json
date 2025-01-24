@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Main St",
+        "address": {
+            "street": "123 Main St",
+            "suburb": "New York",
+            "state": "NY",
+            "postCode": "10001"
+        }
+    },
+    {
+        "name": "Broadway",
+        "address": {
+            "street": "456 Broadway",
+            "suburb": "New York",
+            "state": "NY",
+            "postCode": "10002"
+        }
+    },
+    {
+        "name": "Wall St",
+        "address": {
+            "street": "789 Wall St",
+            "suburb": "New York",
+            "state": "NY",
+            "postCode": "10003"
+        }
+    }
+]

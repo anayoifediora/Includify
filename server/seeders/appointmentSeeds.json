@@ -1,0 +1,16 @@
+[
+    {
+        "appointmentType": "GP Appointment",
+        "description": "General Checkup",
+        "date": "2021-06-01",
+        "address": "13 Main St, New York, NY 10001"
+        
+    },
+    {
+        "appointmentType": "Surgery",
+        "description": "Tooth Extraction",
+        "date": "2021-06-15",
+        "address": "13 Main St, New York, NY 10001"
+        
+    }
+]

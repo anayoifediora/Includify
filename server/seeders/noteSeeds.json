@@ -1,0 +1,14 @@
+[
+    {
+        "noteType": "Progress Note",
+        "title": "Case Notes",
+        "description": "Patient has a history of tooth decay",
+        "createdAt":"2024-06-15"
+    },
+    {
+        "noteType": "Meeting",
+        "title": "Meeting with Team Leader",
+        "description": "Very successful meeting",
+        "createdAt":"2024-06-15"
+    }
+]
